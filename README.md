@@ -4,4 +4,4 @@ I don't use github except to share some bits of code, because it's needy, not st
 
 You can find more about my projects and me here: https://tixlegeek.io/splash/ or on twitter https://twitter.com/tixlegeek or on mastodon @tixlegeek@piaille.fr
 
-I'm all about C/Js/Node/PHP/Bash, making robots, admin sys, ITSec, applications, and stuff like that.
+I'm all about C/Js/Node/PHP/Bash, making robots, admin sys, ITSec, Embedded systems, Reverse engineering, electronics, and stuff like that.
